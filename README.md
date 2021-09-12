@@ -1,5 +1,5 @@
 # chatbot
-Chatbot using Python
+Chatbot using Python and Flask framework.
 Usage : 
 1) Chatterbot in Pyhton
 2) Trainer for the Chatbot
